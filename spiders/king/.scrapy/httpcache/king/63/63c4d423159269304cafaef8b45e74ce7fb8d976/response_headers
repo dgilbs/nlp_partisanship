@@ -1,0 +1,8 @@
+Server: Apache
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Sat, 02 Dec 2017 19:04:44 GMT
+Set-Cookie: CFID=10125706; Expires=Sun, 03-Dec-2017 19:04:44 GMT; Path=/; HttpOnly
+Set-Cookie: CFTOKEN=89df6499ece2bada-F62A3774-CF20-EB8F-4EC1BD898FF3934B; Expires=Sun, 03-Dec-2017 19:04:44 GMT; Path=/; HttpOnly
+Strict-Transport-Security: max-age=86400

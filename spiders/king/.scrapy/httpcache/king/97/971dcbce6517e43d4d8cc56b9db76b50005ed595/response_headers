@@ -1,0 +1,9 @@
+Server: Apache
+Location: https://www.king.senate.gov/404
+Pragma: no-cache
+Content-Type: text/html;charset=UTF-8
+Cache-Control: no-cache
+Date: Sat, 02 Dec 2017 18:58:28 GMT
+Set-Cookie: CFID=10124052; Expires=Sun, 03-Dec-2017 18:58:28 GMT; Path=/; HttpOnly
+Set-Cookie: CFTOKEN=e89dc4d3b380fed3-F5F0D110-C3F7-594F-D72EE9F857E7E2B6; Expires=Sun, 03-Dec-2017 18:58:28 GMT; Path=/; HttpOnly
+Strict-Transport-Security: max-age=86400
